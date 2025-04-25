@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Friend")(type "Legacy")(uri "D:/Escritorio/MCU_Friend.lib")(options "")(descr ""))
+  (lib (name "Titulador-rescue")(type "KiCad")(uri "${KIPRJMOD}/Titulador-rescue.kicad_sym")(options "")(descr ""))
+)
